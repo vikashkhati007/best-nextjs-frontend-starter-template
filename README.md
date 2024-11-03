@@ -8,4 +8,4 @@
 - [Framer Motion](https://www.framer.com/motion/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
 - [zod](https://zod.dev/?id=installation)
-
+- [TanStackQuery](https://tanstack.com/query/latest/docs/framework/react/installation)
